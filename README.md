@@ -2,6 +2,7 @@
 
 🚀 **Polyhedron Web App** is an **advanced mathematical tool** designed to **calculate properties of polyhedra** dynamically. This educational and scientific web app enables users to compute **surface area, volume, edge lengths, face angles**, and other geometric attributes for various polyhedral shapes. 🧮  
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Polyhedron/)
 ---
 
 ## 🏆 Features  
